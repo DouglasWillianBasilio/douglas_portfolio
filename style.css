@@ -194,6 +194,24 @@ section {
   margin-bottom: 1rem;
 }
 
+.title_xp {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+.title_proj {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 3.5rem;
+}
+
+.title_sobre {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
